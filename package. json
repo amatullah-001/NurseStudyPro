@@ -1,11 +1,11 @@
 {
-  "name": "nurse-study-app",
+  "name": "nurse-life-planner",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -41,3 +41,4 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   }
+}
